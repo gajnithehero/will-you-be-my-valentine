@@ -18,7 +18,7 @@ export default function Page() {
       "Pretty please",
       "With a chocolate rice cake on top",
       "What about a matcha frostie",
-      "PLEASE POOKIE",
+      "PLEASE BABY",
       "But :*(",
       "I am going to die",
       "Yep im dead",
@@ -38,7 +38,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you baby!! ;))</div>
         </>
       ) : (
         <>
